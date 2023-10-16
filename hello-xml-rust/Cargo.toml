@@ -1,0 +1,7 @@
+[package]
+name = "hello-xml"
+version = "0.0.1"
+edition = "2021"
+
+[dependencies]
+xml-rs = "0.8.4"
